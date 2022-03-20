@@ -3,8 +3,7 @@
 #include <blindhook>
 #include <sdktools_hooks>
 
-// #define CATEGORY "stuff"
-// #define ITEM    "AntiFlash"
+
 
 public Plugin myinfo =
 {
