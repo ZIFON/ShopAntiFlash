@@ -3,8 +3,6 @@
 #include <blindhook>
 #include <sdktools_hooks>
 
-
-
 public Plugin myinfo =
 {
     name =  "[Shop]AntiFlash" ,
